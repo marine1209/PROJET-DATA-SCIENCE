@@ -1,1 +1,25 @@
-Etapes 
+Data disponible
+
+- Prix du marché spot (day ahead prices + intraday price 2019 -> 2025)
+ 6 fichiers csv, voir data sheet pour comprendre le contenu 
+ trier les fichiers (les colonnes sont a réaranger et à nommer de manière homogène)
+
+- 2 Fichiers excel : day ahead price 2022->2024 
+(peut être que c'est des données en double, voir si ce n'est pas liés à des sources d'énergie différentes)
+
+- température : à partir de 2021 (1 fichier par année)
+date + heure + 
+tout un tas de température dont il faut comprendre la dif 
++ rayonnement 
+
+- Wind power generation forecats + PV
+Prévision de RTE (intraday par unité de temps) (data à 0 tout le temps)
+Prévision J-1 (data valide )
+
+Autres données intéressantes 
+- Télécharger les données nucléaires 
+- Puissances électriques consommées et prod
+- rayonnement solaire + vitesse du vent 
+- facteur de charge et taux de couverture mensuels éolien et PV 
+
+
