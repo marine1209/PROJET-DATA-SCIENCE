@@ -22,4 +22,21 @@ Autres données intéressantes
 - rayonnement solaire + vitesse du vent 
 - facteur de charge et taux de couverture mensuels éolien et PV 
 
+Branches crées 
 
+Objectif 
+On cherche à prédire les prix spot à J-1
+en fonction 
+prod éolien et PV 
+données climatiques 
+consommations
+prix du gaz sur le marché (corréler les variations du prix spot en fonction du prix du gaz)
+Prédiction des erreurs de prévision ENR : Conditions météo instables, Variabilité du vent, Couverture nuageuse
+Prédiction des situations de tension du système électrique 
+
+Etapes 
+1) Nettoyage des données (4 ou 5 mars)
+création de fonctions pour nettoyer les données avec le choix des dossiers en paramètre
+voir comment on gère les données manquantes 
+2) Separer les données + Prédire les prix en fonction des variables prévues (5-12 mars)
+4) Analyser + Poster (12-19 mars)
