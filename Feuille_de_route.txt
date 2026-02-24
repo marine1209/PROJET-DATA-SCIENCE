@@ -38,5 +38,11 @@ Etapes
 1) Nettoyage des données (4 ou 5 mars)
 création de fonctions pour nettoyer les données avec le choix des dossiers en paramètre
 voir comment on gère les données manquantes 
+
+    # Ana : Production ENR et/ou Nucléaire 
+
+    # Marie : Prix de l'énergie sur le marché SPOT
+
+    # Marine : Température & pseudo rayonnement
 2) Separer les données + Prédire les prix en fonction des variables prévues (5-12 mars)
 4) Analyser + Poster (12-19 mars)

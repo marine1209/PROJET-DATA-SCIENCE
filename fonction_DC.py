@@ -3,8 +3,8 @@
 #Bibliothèques 
 
 
-# Ana 
+# Ana : Production ENR et/ou Nucléaire 
 
-# Marie 
+# Marie : Prix de l'énergie sur le marché SPOT
 
-# Marine
+# Marine : Température & pseudo rayonnement

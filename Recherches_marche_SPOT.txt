@@ -1,0 +1,139 @@
+Facteurs influençant le prix spot de l’électricité
+
+Principe général de formation du prix
+
+    Le prix spot résulte de l’équilibre entre l’offre et la demande à chaque heure
+
+    Il correspond au coût de la dernière centrale appelée pour satisfaire la demande
+
+    Il reflète les contraintes techniques, économiques et réseau
+
+    Il varie en fonction de la disponibilité des moyens de production et du niveau de consommation
+
+Facteurs liés à la consommation électrique
+
+    La consommation dépend principalement de la température
+
+    Le froid augmente les besoins de chauffage électrique
+
+    La chaleur augmente les besoins de climatisation
+
+    Les périodes proches de la température de confort réduisent la demande
+
+    La consommation dépend du cycle journalier (matin, soir, nuit)
+
+    Elle dépend du type de jour (semaine, week-end, jours fériés)
+
+    Elle dépend du niveau d’activité industrielle et tertiaire
+
+    Elle dépend du niveau d’électrification des usages
+
+    Une forte consommation augmente la probabilité d’appel à des moyens coûteux
+
+Facteurs liés au mix de production disponible
+
+    Le mix correspond à la répartition entre nucléaire, ENR, hydraulique et thermique
+
+    Chaque filière possède un coût marginal différent
+
+    Les ENR et le nucléaire ont des coûts marginaux faibles
+
+    Les centrales thermiques ont des coûts plus élevés
+
+    Le prix dépend de la filière marginale appelée
+
+    Une forte production bas-carbone tend à réduire les prix
+
+    Une faible disponibilité augmente la dépendance aux centrales fossiles
+
+    Les capacités de stockage et de flexibilité influencent l’équilibre du système
+
+    Influence du prix du gaz et des combustibles fossiles
+
+    Les centrales à gaz sont souvent marginales en Europe
+
+    Leur coût dépend du prix du combustible
+
+    Leur coût dépend du rendement des installations
+
+    Leur coût dépend du prix du carbone
+
+    Une hausse du gaz entraîne une hausse du coût marginal
+
+    Une baisse du gaz réduit la pression sur les prix
+
+    Le charbon et le fioul peuvent intervenir en situation extrême
+
+    Le gaz reste aujourd’hui le principal combustible de référence
+
+Influence des conditions météorologiques
+
+    La météo agit simultanément sur l’offre et la demande
+
+    La température influence directement la consommation
+
+    Le vent détermine la production éolienne
+
+    Le rayonnement détermine la production photovoltaïque
+
+    Les précipitations influencent l’hydraulique
+
+    Les conditions stables favorisent l’équilibre du système
+
+    Les conditions défavorables augmentent les risques de tension
+
+    Les épisodes extrêmes accentuent la volatilité des prix
+
+Influence de l’état des infrastructures et du parc de production
+
+    La disponibilité du nucléaire est déterminante en France
+
+    Elle dépend des maintenances programmées
+
+    Elle dépend des incidents techniques
+
+    Elle dépend des contraintes de sûreté
+
+    Une forte disponibilité stabilise les prix
+
+    Une faible disponibilité augmente le recours au fossile
+
+    Les interconnexions influencent les importations et exportations
+
+    Les contraintes réseau peuvent limiter les échanges
+
+    L’hydraulique apporte une flexibilité importante
+
+Influence du contexte européen
+
+    Le marché électrique est interconnecté à l’échelle européenne
+
+    Les prix tendent à converger entre pays voisins
+
+    Les échanges dépendent des différentiels de prix
+
+    Un déficit régional se propage aux pays voisins
+
+    Un excédent régional peut limiter les hausses
+
+    Les situations de crise renforcent les interdépendances
+
+    La coordination est assurée au niveau européen
+
+Synthèse globale
+
+    Le prix dépend simultanément de la demande
+
+    Il dépend du mix de production disponible
+
+    Il dépend du prix du gaz et du carbone
+
+    Il dépend des conditions météorologiques
+
+    Il dépend de la disponibilité du nucléaire
+
+    Il dépend des échanges européens
+
+    Ces facteurs interagissent de manière dynamique
+
+    Leur combinaison explique les variations temporelles du prix
