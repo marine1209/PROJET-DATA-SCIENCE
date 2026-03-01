@@ -1,0 +1,145 @@
+﻿Date;Filière;Valeur (GW)
+T1-2020;"Growth ";0,274
+T1-2021;"Growth ";0,258
+T1-2022;"Growth ";0,484
+T1-2023;"Growth ";0,464
+T1-2024;"Growth ";0,616
+T1-2025;"Growth ";0,072
+T2-2020;"Growth ";0,159
+T2-2021;"Growth ";0,31
+T2-2022;"Growth ";0,366
+T2-2023;"Growth ";0,215
+T2-2024;"Growth ";0,652
+T2-2025;"Growth ";0,317
+T3-2020;"Growth ";0,346
+T3-2021;"Growth ";0,275
+T3-2022;"Growth ";0,712
+T3-2023;"Growth ";0,524
+T3-2024;"Growth ";0,165
+T3-2025;"Growth ";0,488
+T4-2020;"Growth ";0,31
+T4-2021;"Growth ";0,441
+T4-2022;"Growth ";0,66
+T4-2023;"Growth ";0,43
+T4-2024;"Growth ";0,372
+T4-2025;"Growth ";0,421
+T1-2020;"Installed capacity";16,7328563
+T1-2021;"Installed capacity";17,8055963
+T1-2022;"Installed capacity";19,31608945
+T1-2023;"Installed capacity";21,51759695
+T1-2024;"Installed capacity";23,30270385
+T1-2025;"Installed capacity";24,56364777
+T2-2020;"Installed capacity";16,8923063
+T2-2021;"Installed capacity";18,1158942
+T2-2022;"Installed capacity";19,68232845
+T2-2023;"Installed capacity";21,73308645
+T2-2024;"Installed capacity";23,95497045
+T2-2025;"Installed capacity";24,88081527
+T3-2020;"Installed capacity";17,2377593
+T3-2021;"Installed capacity";18,3905754
+T3-2022;"Installed capacity";20,39408845
+T3-2023;"Installed capacity";22,25720945
+T3-2024;"Installed capacity";24,11983595
+T3-2025;"Installed capacity";25,36862997
+T4-2020;"Installed capacity";17,5481508
+T4-2021;"Installed capacity";18,8316904
+T4-2022;"Installed capacity";21,05407995
+T4-2023;"Installed capacity";22,68729885
+T4-2024;"Installed capacity";24,49172927
+T4-2025;"Installed capacity";25,78949857
+T1-2020;"Parc installé - Eolien en mer";0,0035
+T1-2021;"Parc installé - Eolien en mer";0,0035
+T1-2022;"Parc installé - Eolien en mer";0,0035
+T1-2023;"Parc installé - Eolien en mer";0,4835
+T1-2024;"Parc installé - Eolien en mer";1,0635
+T1-2025;"Parc installé - Eolien en mer";1,504
+T2-2020;"Parc installé - Eolien en mer";0,0035
+T2-2021;"Parc installé - Eolien en mer";0,0035
+T2-2022;"Parc installé - Eolien en mer";0,0445
+T2-2023;"Parc installé - Eolien en mer";0,4837
+T2-2024;"Parc installé - Eolien en mer";1,4765
+T2-2025;"Parc installé - Eolien en mer";1,5972
+T3-2020;"Parc installé - Eolien en mer";0,0035
+T3-2021;"Parc installé - Eolien en mer";0,0035
+T3-2022;"Parc installé - Eolien en mer";0,4095
+T3-2023;"Parc installé - Eolien en mer";0,6856
+T3-2024;"Parc installé - Eolien en mer";1,4765
+T3-2025;"Parc installé - Eolien en mer";1,8002
+T4-2020;"Parc installé - Eolien en mer";0,0035
+T4-2021;"Parc installé - Eolien en mer";0,0035
+T4-2022;"Parc installé - Eolien en mer";0,4835
+T4-2023;"Parc installé - Eolien en mer";0,8435
+T4-2024;"Parc installé - Eolien en mer";1,504
+T4-2025;"Parc installé - Eolien en mer";1,9192
+T1-2020;"Offshore wind";0
+T1-2021;"Offshore wind";0
+T1-2022;"Offshore wind";0
+T1-2023;"Offshore wind";0
+T1-2024;"Offshore wind";0,22
+T1-2025;"Offshore wind";0
+T2-2020;"Offshore wind";0
+T2-2021;"Offshore wind";0
+T2-2022;"Offshore wind";0,041
+T2-2023;"Offshore wind";0
+T2-2024;"Offshore wind";0,413
+T2-2025;"Offshore wind";0,093
+T3-2020;"Offshore wind";0
+T3-2021;"Offshore wind";0
+T3-2022;"Offshore wind";0,365
+T3-2023;"Offshore wind";0,202
+T3-2024;"Offshore wind";0
+T3-2025;"Offshore wind";0,203
+T4-2020;"Offshore wind";0
+T4-2021;"Offshore wind";0
+T4-2022;"Offshore wind";0,074
+T4-2023;"Offshore wind";0,158
+T4-2024;"Offshore wind";0,028
+T4-2025;"Offshore wind";0,119
+T1-2020;"Parc installé - Eolien terrestre";16,7293563
+T1-2021;"Parc installé - Eolien terrestre";17,8020963
+T1-2022;"Parc installé - Eolien terrestre";19,31258945
+T1-2023;"Parc installé - Eolien terrestre";21,03409695
+T1-2024;"Parc installé - Eolien terrestre";22,23920385
+T1-2025;"Parc installé - Eolien terrestre";23,05964777
+T2-2020;"Parc installé - Eolien terrestre";16,8888063
+T2-2021;"Parc installé - Eolien terrestre";18,1123942
+T2-2022;"Parc installé - Eolien terrestre";19,63782845
+T2-2023;"Parc installé - Eolien terrestre";21,24938645
+T2-2024;"Parc installé - Eolien terrestre";22,47847045
+T2-2025;"Parc installé - Eolien terrestre";23,28361527
+T3-2020;"Parc installé - Eolien terrestre";17,2342593
+T3-2021;"Parc installé - Eolien terrestre";18,3870754
+T3-2022;"Parc installé - Eolien terrestre";19,98458845
+T3-2023;"Parc installé - Eolien terrestre";21,57160945
+T3-2024;"Parc installé - Eolien terrestre";22,64333595
+T3-2025;"Parc installé - Eolien terrestre";23,56842997
+T4-2020;"Parc installé - Eolien terrestre";17,5446508
+T4-2021;"Parc installé - Eolien terrestre";18,8281904
+T4-2022;"Parc installé - Eolien terrestre";20,57057995
+T4-2023;"Parc installé - Eolien terrestre";21,84379885
+T4-2024;"Parc installé - Eolien terrestre";22,98772927
+T4-2025;"Parc installé - Eolien terrestre";23,87029857
+T1-2020;"Onshore wind";0,274
+T1-2021;"Onshore wind";0,258
+T1-2022;"Onshore wind";0,484
+T1-2023;"Onshore wind";0,464
+T1-2024;"Onshore wind";0,396
+T1-2025;"Onshore wind";0,072
+T2-2020;"Onshore wind";0,159
+T2-2021;"Onshore wind";0,31
+T2-2022;"Onshore wind";0,325
+T2-2023;"Onshore wind";0,215
+T2-2024;"Onshore wind";0,239
+T2-2025;"Onshore wind";0,224
+T3-2020;"Onshore wind";0,346
+T3-2021;"Onshore wind";0,275
+T3-2022;"Onshore wind";0,347
+T3-2023;"Onshore wind";0,322
+T3-2024;"Onshore wind";0,165
+T3-2025;"Onshore wind";0,285
+T4-2020;"Onshore wind";0,31
+T4-2021;"Onshore wind";0,441
+T4-2022;"Onshore wind";0,586
+T4-2023;"Onshore wind";0,272
+T4-2024;"Onshore wind";0,344
+T4-2025;"Onshore wind";0,302

@@ -6,6 +6,7 @@ import numpy as np
 
 # Ana : Production ENR et/ou Nucléaire 
 
+
 # Marie : Prix de l'énergie sur le marché SPOT
 
 # Marine : Température & pseudo rayonnement
