@@ -5,7 +5,29 @@ import pandas as pd
 import numpy as np 
 
 # Ana : Production ENR et/ou Nucléaire 
-
+def harmonize_data_DayAhead_price(chemin_fichier):
+    # Lecture du fichier et création d'une copie pour ne pas toucher aux données originales
+    df = pd.read_csv(chemin_fichier).copy()
+    
+    # On garde seulement les colonnes utiles et on renomme
+    df = df[["MTU (UTC)", "Day-ahead Price (EUR/MWh)"]].copy()
+    df = df.rename(columns={
+        "MTU (UTC)": "MTU (CET/CEST)",
+        "Day-ahead Price (EUR/MWh)": "Day-ahead Price [EUR/MWh]"
+    })
+    
+    # On sépare la plage horaire en deux colonnes
+    df[["Date_start", "Date_end"]] = df["MTU (CET/CEST)"].str.split(" - ", expand=True)
+    df = df.drop(columns=["MTU (CET/CEST)"])
+    
+    # Conversion en datetime
+    df["Date_start"] = pd.to_datetime(df["Date_start"], format="%d/%m/%Y %H:%M:%S", utc=True).dt.tz_localize(None)
+    df["Date_end"] = pd.to_datetime(df["Date_end"], format="%d/%m/%Y %H:%M:%S", utc=True).dt.tz_localize(None)
+    
+    print(df.shape)
+    print(df.head())
+    return df
+    
 
 # Marie : Prix de l'énergie sur le marché SPOT
 def clean_data_price (chemin_fichier):
