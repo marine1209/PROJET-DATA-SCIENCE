@@ -23,8 +23,8 @@ for point in points_france:
     url = (
     f"https://archive-api.open-meteo.com/v1/archive"
     f"?latitude={point['lat']}&longitude={point['lon']}"
-    f"&start_date=2021-01-01"
-    f"&end_date=2023-12-31"
+    f"&start_date=2019-01-01"
+    f"&end_date=2025-12-31"
     f"&hourly=shortwave_radiation,temperature_2m"  # ← retour à hourly
     f"&timezone=Europe%2FParis"
 )
@@ -51,5 +51,5 @@ print(f"✓ {len(df_meteo_national)} mesures | {df_meteo_national['timestamp'].m
 print(df_meteo_national.head())
 
 # Sauvegarder pour ne pas re-télécharger à chaque fois
-df_meteo_national.to_csv("data/meteo_openmeteo_2021_2023.csv", index=False)
-print("✓ Sauvegardé dans data/meteo_openmeteo_2021_2023.csv")
+df_meteo_national.to_csv("data/meteo_openmeteo_2019_2025.csv", index=False)
+print("✓ Sauvegardé dans data/meteo_openmeteo_2019_2025.csv")
