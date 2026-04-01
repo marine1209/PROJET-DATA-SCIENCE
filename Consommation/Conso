@@ -1,0 +1,28 @@
+import requests
+import base64
+
+client_id = fad8a92c-8a49-48cd-a8e9-df75416b249a //"TON_CLIENT_ID"
+client_secret = 2b0dda92-c9ab-476b-b9d1-84c254a4859b //"TON_CLIENT_SECRET"
+
+credentials = f"{client_id}:{client_secret}"
+encoded_credentials = base64.b64encode(credentials.encode()).decode()
+
+url = "https://digital.iservices.rte-france.com/token/oauth/"
+
+headers = {
+    "Authorization": f"Basic {encoded_credentials}",
+    "Content-Type": "application/x-www-form-urlencoded"
+}
+
+data = {
+    "grant_type": "client_credentials"
+}
+    
+response = requests.post(url, headers=headers, data=data)
+
+token = response.json()["access_token"]
+
+print(response.status_code)
+print(response.text)
+
+print(token)
